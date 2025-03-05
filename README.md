@@ -5,7 +5,6 @@
 📌 Project Description:
 This project aims to predict customer churn in a telecom company using machine learning algorithms. It analyzes customer data to identify the key factors contributing to churn and helps businesses take proactive actions to reduce customer loss.
 
-
 📂 1. Dataset Information
 📊 Source: Telco Customer Churn Dataset
 📊 Total Customers: 7043
